@@ -30483,5 +30483,12 @@
     "author": "Gabby Welson",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Search Google Maps and insert place coordinates into note frontmatter.",
     "repo": "gabbywelson/obsidian-corduroy"
-  }
+  },
+  {
+    "id": "sxjeel-spell-checker",
+    "name": "Offline Spell Checker",
+    "author": "sxjeel",
+    "description": "A fast, totally offline spell checker using standard .dic and .aff files.",
+    "repo": "sajee05/sxjeel-spell-checker"
+    }
 ]
